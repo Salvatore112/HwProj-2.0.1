@@ -14,7 +14,6 @@ namespace StudentsInfo
         private readonly string _ldapHost = "ad.pu.ru";
         private readonly int _ldapPort = 389;
         private readonly string _searchBase = "DC=ad,DC=pu,DC=ru";
-
         private string _username;
         private string _password;
         
